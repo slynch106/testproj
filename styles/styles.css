@@ -1,0 +1,116 @@
+
+
+*
+{
+    font-family:Verdana;
+}
+
+body
+{
+    margin:0px;
+}
+
+#logoText
+{
+    color:rgb(255, 0, 0);
+    text-align: left;
+}
+
+header
+{
+    padding:5px;
+    background-color: black;
+    height: 75px;
+}
+
+nav
+{
+    padding:1%;
+    height:50px;
+    background-color:gray;
+    text-align: center;;
+}
+
+h2
+{
+    color:rgb(255, 255, 255);
+    text-align: center;
+}
+
+a, a:focus
+{
+    text-decoration: none;
+    color:rgb(255, 255, 255);
+}
+
+a:hover
+{
+    color:rgb(255, 0, 0);
+}
+
+.inTextLink
+{
+    color:rgb(20, 178, 231);
+}
+
+#active
+{
+    text-decoration: none;
+    padding:15px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: rgb(209, 69, 69);
+    display: inline;
+    border:2px rgb(63, 117, 58);
+    border-radius: 8px;
+}
+
+nav ul li
+{
+
+    padding:15px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: lightgray;
+    display: inline;
+    border:2px solid #be3b3b;
+    border-radius: 25px;
+}
+
+main
+{
+    width: 100%;
+}
+
+.bigImage
+{
+    border:white solid 2px;
+    margin-left: 15%;
+    margin-right:15%;
+    width: 65%;
+}
+
+.otherBigImage
+{ 
+    width: 30%;
+    height: auto;
+}
+
+footer
+{
+    margin:2px;
+    padding:15px;
+    width:100%;
+    background-color: gray;
+    height: 50px;
+    text-align: center;
+}
+
+
+
+article
+{
+    margin-bottom:1px;
+    padding:2px;
+}
+ 
